@@ -1,12 +1,12 @@
-# Hi 👋, We are Estates
-### A group of developers coming together to make your dream home, prop, buildings, roads, or maps!
+# Hi 👋, We are Forge
+### A group of developers coming together to make your EUP, Models, Liveries, Servers!
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thestoicbear&label=Profile%20views&color=0e75b6&style=flat" alt="thestoicbear" />
 </p>
 
-- 🔭 We are currently working on **Estates**
-- 🌱 We are currently learning **Houses, Buildings, Interiors.**
-- 👯 We are looking to collaborate on **MLOs, YMAPs, Props. **
+- 🔭 We are currently working on **Forge**
+- 🌱 We are currently learning **EUP, Models, Liveries, Servers**
+- 👯 We are looking to collaborate on **EUP, Models, Liveries, Servers**
 - 🤝 We are looking for help with **Creation, Ideas, Testing**
 
 ### Languages and Tools:
